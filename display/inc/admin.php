@@ -24,6 +24,7 @@ function nhncss_admin() {
 			<?php echo $nhncss_options["admin"];  ?>
 		</style>
 		<?php endif; ?>
+		
 	<!-- WpCss End -->
 	<?php
 		echo ob_get_clean();

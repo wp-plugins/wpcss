@@ -3,7 +3,7 @@ Contributors: nazmul.hossain.nihal
 Tags: css,custom css,wpcss,.css,stylesheet
 Requires at least: 3.5 
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FYMPLJ69H9EM6
@@ -38,7 +38,13 @@ Note: Don't change "wpcss" directory name
 = 1.0 =
 * Plugin Created
 
+= 1.0.1 =
+* Code editor added
+
 == Changelog ==
 
 = 1.0 =
 * Plugin Created
+
+= 1.0.1 =
+* Code editor added
